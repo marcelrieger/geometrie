@@ -1,3 +1,3 @@
-module github/marcelrieger/geometrie
+module github.com/marcelrieger/geometrie
 
 go 1.20
